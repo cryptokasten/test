@@ -1,4 +1,6 @@
 #+TITLE: Test
 
+[[http://ya.ru][file:https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/cryptokasten&label=cryptokasten&query=$.public_repos]]
+
 [[https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/cryptokasten&label=cryptokasten&query=$.public_repos][https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/cryptokasten&label=cryptokasten&query=$.public_repos]]
 
